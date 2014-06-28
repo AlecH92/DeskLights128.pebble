@@ -1,0 +1,25 @@
+{
+    "uuid": "07a3fb4a-b4e5-4a98-9a5a-58bedcaf132f",
+    "longName": "DeskLights128",
+    "versionLabel": "1.0",
+    "companyName": "Alec Harley",
+    "capabilities": [
+        ""
+    ],
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "menuIcon": true,
+                "name": "appicon",
+                "file": "images/pebble.app.icon.png"
+            }
+        ]
+    },
+    "shortName": "DeskLights128",
+    "versionCode": 1,
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {}
+}
