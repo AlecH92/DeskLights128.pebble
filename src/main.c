@@ -70,7 +70,7 @@ static void send_cmd(uint8_t cmd) {
 
 uint16_t num_rows_callback(MenuLayer *menu_layer, uint16_t section_index, void *callback_context)
 {
-  return 9;
+  return 10;
 }
  
 void select_click_callback(MenuLayer *menu_layer, MenuIndex *cell_index, void *callback_context)
